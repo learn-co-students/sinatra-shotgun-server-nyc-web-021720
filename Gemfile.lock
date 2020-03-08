@@ -32,6 +32,7 @@ PLATFORMS
 
 DEPENDENCIES
   pry
+  rack
   rake
   require_all
   shotgun
@@ -39,4 +40,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   1.10.6
+   1.15.3
